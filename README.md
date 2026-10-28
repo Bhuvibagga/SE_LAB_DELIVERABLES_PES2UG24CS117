@@ -7,13 +7,13 @@
 
 ## Lab Deliverables
 
-| Lab | Topic | Deliverable |
-|---|---|---|
-| Lab 1 | Software Requirements Engineering | [View Lab 1 PDF](./SE%20LAB1_PES2UG24CS117.pdf) |
-| Lab 2 | Agile Project Management with Jira | [View Lab 2 PDF](./BHUVIBAGGA_PES2UG24CS117_SELAB2.pdf) |
-| Lab 3 | Software Architecture | [View Lab 3 PDF](./BHUVIBAGGA_PES2UG24CS117_SELAB3%20-%20BHUVI%20BAGGA.pdf) |
-| Lab 4 | Vibe Coding – Rhythm Tap | [View Lab 4 Repository](https://github.com/Bhuvibagga/Lab-4-VibeCoding-51_rhythm_tap) |
-| Lab 5 | Static Code Analysis | [View Lab 5 PDF](./Lab%205_%20Static%20Code%20Analysis_PES2UG24CS117_BHUVI_BAGGA.pdf) |
+| Lab | Topic 
+|---|---
+| Lab 1 | Software Requirements Engineering 
+| Lab 2 | Agile Project Management with Jira 
+| Lab 3 | Software Architecture 
+| Lab 4 | Vibe Coding – Rhythm Tap
+| Lab 5 | Static Code Analysis 
 
 ## Lab 4 – Project Details
 
