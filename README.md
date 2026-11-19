@@ -19,6 +19,14 @@
 
 Rhythm Tap is a four-lane rhythm game developed using Python and Pygame. Players press the correct lane key as notes reach the hit line.
 
+### Lab 7 – Fuzz Testing
+
+**Lab Report:** [BHUVIBAGGA_PES2UG24CS117_LAB7.pdf](./BHUVIBAGGA_PES2UG24CS117_LAB7.pdf)
+
+**Source Code Repository:** [L6_L7_51_self_storage](https://github.com/Bhuvibagga/L6_L7_51_self_storage)
+
+**Description:** Implemented fuzz testing using Python Hypothesis and pytest to identify input validation bugs, improve defensive programming, and verify application robustness.
+
 **Features:**
 - Four-lane rhythm gameplay
 - Sound effects for PERFECT, GREAT and OK judgements
@@ -27,6 +35,8 @@ Rhythm Tap is a four-lane rhythm game developed using Python and Pygame. Players
 - Grade summary with accuracy, score and maximum combo
 
 **Repository:** [Lab-4-VibeCoding-51_rhythm_tap](https://github.com/Bhuvibagga/Lab-4-VibeCoding-51_rhythm_tap)
+
+
 
 
 
