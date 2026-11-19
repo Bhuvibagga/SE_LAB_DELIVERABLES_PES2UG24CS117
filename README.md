@@ -14,7 +14,8 @@
 | Lab 3 | Software Architecture 
 | Lab 4 | Vibe Coding – Rhythm Tap
 | Lab 5 | Static Code Analysis 
-
+| Lab 6 | Code Branch Coverage 
+| Lab 7 | Fuzz Testing 
 ## Lab 4 – Project Details
 
 Rhythm Tap is a four-lane rhythm game developed using Python and Pygame. Players press the correct lane key as notes reach the hit line.
